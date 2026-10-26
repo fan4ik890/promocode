@@ -1,16 +1,7 @@
 {
   "promos": [
-    {
-      "code": "WAVE2026",
-      "reward": "1000 coins"
-    },
-    {
-      "code": "TOTALIGNAT",
-      "reward": "skin_ignat"
-    }
-    {
-      "code": "Matvei",
-      "reward": "skin_matvei"
-    }
+    {"code": "WAVE2026", "reward": "1000 coins"},
+    {"code": "TOTALIGNAT", "reward": "skin_ignat"},
+    {"code": "NEWWAVE", "reward": "booster_x2"}
   ]
 }
